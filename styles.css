@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: pink;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    margin-top: 20px;
+}
+
+form {
+    margin: 20px auto;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    border: 2px solid darkgrey;
+}
+
+button {
+    padding: 6px 10px;
+    border: 2px solid darkgrey;
+    background-color: gray;
+    cursor: pointer;
+}
+
+
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 60%;
+    background-color: white;
+}
+
+th, td {
+    border: 2px solid darkgrey;
+    padding: 8px;
+}
+
+th {
+    background-color: gray;
+}
+
